@@ -1,4 +1,4 @@
-![1709108044532](https://github.com/Ahtisham-Hussain/Ahtisham-Hussain/assets/154002517/166c2c52-80fb-4355-82a4-fa5ee8e2a859)
+![6666](https://github.com/Ahtisham-Hussain/Ahtisham-Hussain/assets/154002517/fb37c0c7-bd96-4233-add2-e3776391e089)
 <h1 align="center">Hi 👋, I'm Ahtisham Hussain</h1>
 <h3 align="center">Aspiring IoT Innovator & Embedded Systems Developer | Electronics Engineering Student at DUET</h3>
 
